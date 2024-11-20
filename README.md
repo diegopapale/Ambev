@@ -1,10 +1,10 @@
 # Projeto Ambev - DeveloperStore Sales API
 
 1. Título do Projeto
-DeveloperStore Sales API
+- DeveloperStore Sales API
 
 2. Descrição
-Esta API gerencia registros de vendas, permitindo a criação, leitura, atualização e exclusão de vendas, com regras de negócio específicas e eventos relacionados ao ciclo de vida das vendas.
+- Esta API gerencia registros de vendas, permitindo a criação, leitura, atualização e exclusão de vendas, com regras de negócio específicas e eventos relacionados ao ciclo de vida das vendas.
 
 3. Requisitos do Projeto
 - Linguagem/Frameworks: .NET 8.0.
