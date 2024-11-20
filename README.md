@@ -34,15 +34,14 @@ PUT /api/vendas/{id}: Atualiza uma venda existente.
 DELETE /api/vendas/{id}: Cancela uma venda.
 
 7. Documentação
-Como acessar ou gerar a documentação da API, com o Swagger:
+- Como acessar ou gerar a documentação da API, com o Swagger:
 Acesse http://localhost:5000/swagger.
 
 8. Tecnologias Usadas
-Tecnologias e frameworks utilizados:
-.NET 8
-Entity Framework
-PostgreSQL
-Swagger
+- .NET 8
+- Entity Framework
+- PostgreSQL
+- Swagger
 
 9. Regras de Negócio
 - Compras acima de 4 itens têm 10% de desconto.
